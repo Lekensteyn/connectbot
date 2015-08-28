@@ -11,7 +11,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - No more intro wizard on first start.
 - No more outdated physical or virtual keyboard instructions
 
-## [1.8.5][1.8.5] - 2014-08-11
+## [1.8.5][1.8.5] - 2015-08-11
 ### Added
 - Mouse support for right click and selection and mouse wheel
   (third button) to paste.
